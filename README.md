@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @NokodaAlex
+- 👀 I’m interested in Javascript and PHP but more that javascript
+- 🌱 I’m currently learning about music and programig, i tring to cobine this things.
+- So you will see in this part of the site my proyect tu make Microtonal Music
